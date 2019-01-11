@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/inc/menu.h
+
+C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/inc/termcolor.hpp
+unistd.h
+-
+io.h
+-
+windows.h
+-
+iostream
+-
+cstdio
+-
+
+C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/src/menu.cpp
+iostream
+-
+sstream
+-
+vector
+-
+cstdlib
+-
+../inc/menu.h
+C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/inc/menu.h
+../inc/termcolor.hpp
+C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/inc/termcolor.hpp
+

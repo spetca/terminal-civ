@@ -1,0 +1,245 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_20a0d/fast"
+C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_20a0d.dir/build.make CMakeFiles/cmTC_20a0d.dir/build
+make.exe[1]: Entering directory `C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_20a0d.dir/testCCompiler.c.obj
+/C/octave/Octave-3.8.2/bin/gcc.exe    -o CMakeFiles/cmTC_20a0d.dir/testCCompiler.c.obj   -c "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp/testCCompiler.c"
+Linking C executable cmTC_20a0d.exe
+"/C/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_20a0d.dir/objects.a
+/C/octave/Octave-3.8.2/bin/ar.exe cr CMakeFiles/cmTC_20a0d.dir/objects.a @CMakeFiles/cmTC_20a0d.dir/objects1.rsp
+process_begin: CreateProcess(NULL, /C/octave/Octave-3.8.2/bin/ar.exe cr CMakeFiles/cmTC_20a0d.dir/objects.a @CMakeFiles/cmTC_20a0d.dir/objects1.rsp, ...) failed.
+make (e=2): The system cannot find the file specified.
+make.exe[1]: *** [cmTC_20a0d.exe] Error 2
+make.exe[1]: Leaving directory `C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
+make.exe: *** [cmTC_20a0d/fast] Error 2
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_9ab7b/fast"
+C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_9ab7b.dir/build.make CMakeFiles/cmTC_9ab7b.dir/build
+make.exe[1]: Entering directory `C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9ab7b.dir/testCCompiler.c.obj
+/C/octave/Octave-3.8.2/bin/gcc.exe    -o CMakeFiles/cmTC_9ab7b.dir/testCCompiler.c.obj   -c "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp/testCCompiler.c"
+Linking C executable cmTC_9ab7b.exe
+"/C/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_9ab7b.dir/objects.a
+/C/octave/Octave-3.8.2/bin/ar.exe cr CMakeFiles/cmTC_9ab7b.dir/objects.a @CMakeFiles/cmTC_9ab7b.dir/objects1.rsp
+process_begin: CreateProcess(NULL, /C/octave/Octave-3.8.2/bin/ar.exe cr CMakeFiles/cmTC_9ab7b.dir/objects.a @CMakeFiles/cmTC_9ab7b.dir/objects1.rsp, ...) failed.
+make (e=2): The system cannot find the file specified.
+make.exe[1]: *** [cmTC_9ab7b.exe] Error 2
+make.exe[1]: Leaving directory `C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
+make.exe: *** [cmTC_9ab7b/fast] Error 2
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_af9a0/fast"
+C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_af9a0.dir/build.make CMakeFiles/cmTC_af9a0.dir/build
+make.exe[1]: Entering directory `C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_af9a0.dir/testCCompiler.c.obj
+/C/octave/Octave-3.8.2/bin/gcc.exe    -o CMakeFiles/cmTC_af9a0.dir/testCCompiler.c.obj   -c "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp/testCCompiler.c"
+Linking C executable cmTC_af9a0.exe
+"/C/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_af9a0.dir/objects.a
+/C/octave/Octave-3.8.2/bin/ar.exe cr CMakeFiles/cmTC_af9a0.dir/objects.a @CMakeFiles/cmTC_af9a0.dir/objects1.rsp
+process_begin: CreateProcess(NULL, /C/octave/Octave-3.8.2/bin/ar.exe cr CMakeFiles/cmTC_af9a0.dir/objects.a @CMakeFiles/cmTC_af9a0.dir/objects1.rsp, ...) failed.
+make (e=2): The system cannot find the file specified.
+make.exe[1]: *** [cmTC_af9a0.exe] Error 2
+make.exe[1]: Leaving directory `C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
+make.exe: *** [cmTC_af9a0/fast] Error 2
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_3bf33/fast"
+C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_3bf33.dir/build.make CMakeFiles/cmTC_3bf33.dir/build
+make.exe[1]: Entering directory `C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3bf33.dir/testCCompiler.c.obj
+/C/octave/Octave-3.8.2/bin/gcc.exe    -o CMakeFiles/cmTC_3bf33.dir/testCCompiler.c.obj   -c "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp/testCCompiler.c"
+Linking C executable cmTC_3bf33.exe
+"/C/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_3bf33.dir/objects.a
+/C/octave/Octave-3.8.2/bin/ar.exe cr CMakeFiles/cmTC_3bf33.dir/objects.a @CMakeFiles/cmTC_3bf33.dir/objects1.rsp
+process_begin: CreateProcess(NULL, /C/octave/Octave-3.8.2/bin/ar.exe cr CMakeFiles/cmTC_3bf33.dir/objects.a @CMakeFiles/cmTC_3bf33.dir/objects1.rsp, ...) failed.
+make (e=2): The system cannot find the file specified.
+make.exe[1]: *** [cmTC_3bf33.exe] Error 2
+make.exe[1]: Leaving directory `C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
+make.exe: *** [cmTC_3bf33/fast] Error 2
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/octave/Octave-3.8.2/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/octave/Octave-3.8.2/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/octave/Octave-3.8.2/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/octave/Octave-3.8.2/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/octave/Octave-3.8.2/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/octave/Octave-3.8.2/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/octave/Octave-3.8.2/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/octave/Octave-3.8.2/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/octave/Octave-3.8.2/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/octave/Octave-3.8.2/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/octave/Octave-3.8.2/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/octave/Octave-3.8.2/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command line option '--ec++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/octave/Octave-3.8.2/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/octave/Octave-3.8.2/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/octave/Octave-3.8.2/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/octave/Octave-3.8.2/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command line option '--ec++'
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_19cd5/fast"
+C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_19cd5.dir/build.make CMakeFiles/cmTC_19cd5.dir/build
+make.exe[1]: Entering directory `C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_19cd5.dir/testCCompiler.c.obj
+/C/octave/Octave-3.8.2/bin/gcc.exe    -o CMakeFiles/cmTC_19cd5.dir/testCCompiler.c.obj   -c "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp/testCCompiler.c"
+make.exe[1]: *** [CMakeFiles/cmTC_19cd5.dir/testCCompiler.c.obj] Error 1
+make.exe[1]: Leaving directory `C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
+make.exe: *** [cmTC_19cd5/fast] Error 2
+
+

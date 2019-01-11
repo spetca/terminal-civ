@@ -1,5 +1,6 @@
 #include <iostream>
 #include <sstream>
+#include <cstdlib>
 #include "../inc/menu.h"
 
 int main(void)
@@ -9,3 +10,4 @@ int main(void)
 
     return EXIT_SUCCESS;
 }
+

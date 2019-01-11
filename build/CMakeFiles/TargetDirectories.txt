@@ -1,0 +1,7 @@
+C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/termtopia.dir
+C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/install/local.dir
+C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/install.dir
+C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/edit_cache.dir
+C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/rebuild_cache.dir
+C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/list_install_components.dir
+C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/install/strip.dir

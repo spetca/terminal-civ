@@ -1,8 +1,9 @@
 #include <iostream>
 #include <sstream>
 #include <vector>
+#include <cstdlib>
 #include "../inc/menu.h"
-#include "../inc/color.h"
+#include "../inc/termcolor.hpp"
 void Menu::run_game()
 {
     constexpr auto greetings_text = "Welcome to ";
@@ -10,9 +11,7 @@ void Menu::run_game()
     constexpr auto sp = "  ";
 
     std::ostringstream str_os;
-    std::ostringstream title_richtext;
-    title_richtext << bold_on << sp << greetings_text << blue << gamename_text
-                 << def << bold_off << "\n";
+    
 
     constexpr auto menu_entry_text = R"(
           1. Play a New Game
@@ -21,8 +20,12 @@ void Menu::run_game()
           4. Exit
     )";
 //test
-    system("CLS");
     draw_splash(); 
+    std::cout << sp << greetings_text << termcolor::blue << gamename_text << std::endl;
+    std::cout << termcolor::reset;
+
+    std::cout <<  termcolor::red << menu_entry_text << std::endl;
+    std::cout << termcolor::reset;
     //get tribe
 
     //get difficulty
@@ -60,9 +63,8 @@ void Menu::draw_splash() {
                                                                                                                                
     )";
 
-    std::ostringstream splash_screen; 
-    splash_screen << green << bold_on << splash << bold_off << def; 
-    splash_screen << '\n\n\n'; 
-    std::cout << splash_screen.str(); 
+    
+    std::cout << termcolor::green << splash << std::endl; 
+    std::cout << termcolor::reset; 
 }
 
