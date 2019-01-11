@@ -2,8 +2,8 @@
 
 termtopia is a terminal implementation of civ/polytopia
 
-##Setup & Requirements
+## Setup & Requirements
 
-##Installation
+## Installation
 
-##Contributing
+## Contributing
