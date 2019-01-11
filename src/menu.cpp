@@ -20,7 +20,7 @@ void Menu::run_game()
           3. View Highscores and Statistics
           4. Exit
     )";
-
+//test
     system("CLS");
     draw_splash(); 
     //get tribe
