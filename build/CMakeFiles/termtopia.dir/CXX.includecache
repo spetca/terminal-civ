@@ -21,16 +21,16 @@ cstdio
 -
 
 C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/src/menu.cpp
+../inc/menu.h
+C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/inc/menu.h
+../inc/termcolor.hpp
+C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/inc/termcolor.hpp
+cstdlib
+-
 iostream
 -
 sstream
 -
 vector
 -
-cstdlib
--
-../inc/menu.h
-C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/inc/menu.h
-../inc/termcolor.hpp
-C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/inc/termcolor.hpp
 

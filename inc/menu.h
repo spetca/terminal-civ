@@ -10,7 +10,9 @@ private:
     void draw_splash();
     void print_menu();
     void get_intput();
+    void main_menu_input();
+    void show_score();
 
 public:
-    void run_game();
+    void run();
 };

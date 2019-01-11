@@ -1,13 +1,13 @@
+#include "../inc/menu.h"
+#include <cstdlib>
 #include <iostream>
 #include <sstream>
-#include <cstdlib>
-#include "../inc/menu.h"
 
-int main(void)
+int
+main(void)
 {
     Menu menu;
-    menu.run_game(); 
+    menu.run();
 
     return EXIT_SUCCESS;
 }
-
