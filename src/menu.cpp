@@ -1,9 +1,9 @@
+#include "../inc/menu.h"
+#include "../inc/termcolor.hpp"
+#include <cstdlib>
 #include <iostream>
 #include <sstream>
 #include <vector>
-#include <cstdlib>
-#include "../inc/menu.h"
-#include "../inc/termcolor.hpp"
 void Menu::run_game()
 {
     constexpr auto greetings_text = "Welcome to ";
@@ -11,7 +11,7 @@ void Menu::run_game()
     constexpr auto sp = "  ";
 
     std::ostringstream str_os;
-    
+
 
     constexpr auto menu_entry_text = R"(
           1. Play a New Game
@@ -19,39 +19,25 @@ void Menu::run_game()
           3. View Highscores and Statistics
           4. Exit
     )";
-//test
-    draw_splash(); 
+    // test
+    draw_splash();
     std::cout << sp << greetings_text << termcolor::blue << gamename_text << std::endl;
     std::cout << termcolor::reset;
 
-    std::cout <<  termcolor::red << menu_entry_text << std::endl;
+    std::cout << termcolor::red << menu_entry_text << std::endl;
     std::cout << termcolor::reset;
-    //get tribe
+    // get tribe
 
-    //get difficulty
+    // get difficulty
 
-    //get board size
+    // get board size
 
-    //run_game
+    // run_game
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-void Menu::draw_splash() {
+void Menu::draw_splash()
+{
     const auto splash = R"(
  _____                   _             _   _____ _        
 |_   _|                 (_)           | | /  __ (_)       
@@ -63,8 +49,7 @@ void Menu::draw_splash() {
                                                                                                                                
     )";
 
-    
-    std::cout << termcolor::green << splash << std::endl; 
-    std::cout << termcolor::reset; 
-}
 
+    std::cout << termcolor::green << splash << std::endl;
+    std::cout << termcolor::reset;
+}
