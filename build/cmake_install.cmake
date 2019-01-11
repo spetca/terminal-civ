@@ -45,7 +45,7 @@ file(INSTALL DESTINATION "/bin" TYPE EXECUTABLE FILES "C:/Users/SPetcavich/Deskt
   if(EXISTS "$ENV{DESTDIR}/bin/termtopia.exe" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}/bin/termtopia.exe")
     if(CMAKE_INSTALL_DO_STRIP)
-      execute_process(COMMAND "C:/octave/Octave-3.8.2/bin/strip.exe" "$ENV{DESTDIR}/bin/termtopia.exe")
+      execute_process(COMMAND "C:/MinGW/bin/strip.exe" "$ENV{DESTDIR}/bin/termtopia.exe")
     endif()
   endif()
 endif()

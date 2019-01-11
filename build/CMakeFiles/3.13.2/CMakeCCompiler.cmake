@@ -16,11 +16,11 @@ set(CMAKE_C_SIMULATE_VERSION "")
 
 
 
-set(CMAKE_AR "C:/octave/Octave-3.8.2/bin/ar.exe")
-set(CMAKE_C_COMPILER_AR "C:/octave/Octave-3.8.2/bin/gcc-ar.exe")
-set(CMAKE_RANLIB "C:/octave/Octave-3.8.2/bin/ranlib.exe")
-set(CMAKE_C_COMPILER_RANLIB "C:/octave/Octave-3.8.2/bin/gcc-ranlib.exe")
-set(CMAKE_LINKER "C:/octave/Octave-3.8.2/bin/ld.exe")
+set(CMAKE_AR "C:/MinGW/bin/ar.exe")
+set(CMAKE_C_COMPILER_AR "C:/MinGW/bin/gcc-ar.exe")
+set(CMAKE_RANLIB "C:/MinGW/bin/ranlib.exe")
+set(CMAKE_C_COMPILER_RANLIB "C:/MinGW/bin/gcc-ranlib.exe")
+set(CMAKE_LINKER "C:/MinGW/bin/ld.exe")
 set(CMAKE_COMPILER_IS_GNUCC 1)
 set(CMAKE_C_COMPILER_LOADED 1)
 set(CMAKE_C_COMPILER_WORKS TRUE)

@@ -34,3 +34,13 @@ sstream
 vector
 -
 
+C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/src/termtopia.cpp
+../inc/menu.h
+C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/inc/menu.h
+cstdlib
+-
+iostream
+-
+sstream
+-
+

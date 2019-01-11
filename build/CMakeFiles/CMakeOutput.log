@@ -1,109 +1,5 @@
 The system is: Windows - 6.1.7601 - AMD64
 Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
-Compiler: C:/octave/Octave-3.8.2/bin/gcc.exe 
-Build flags: 
-Id flags:  
-
-The output was:
-0
-
-
-Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
-
-The C compiler identification is GNU, found in "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/3.13.2/CompilerIdC/a.exe"
-
-Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
-Compiler: C:/octave/Octave-3.8.2/bin/g++.exe 
-Build flags: 
-Id flags:  
-
-The output was:
-0
-
-
-Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
-
-The CXX compiler identification is GNU, found in "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/3.13.2/CompilerIdCXX/a.exe"
-
-Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
-Compiler: C:/octave/Octave-3.8.2/bin/gcc.exe 
-Build flags: 
-Id flags:  
-
-The output was:
-0
-
-
-Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
-
-The C compiler identification is GNU, found in "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/3.13.2/CompilerIdC/a.exe"
-
-Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
-Compiler: C:/octave/Octave-3.8.2/bin/g++.exe 
-Build flags: 
-Id flags:  
-
-The output was:
-0
-
-
-Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
-
-The CXX compiler identification is GNU, found in "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/3.13.2/CompilerIdCXX/a.exe"
-
-Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
-Compiler: C:/octave/Octave-3.8.2/bin/gcc.exe 
-Build flags: 
-Id flags:  
-
-The output was:
-0
-
-
-Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
-
-The C compiler identification is GNU, found in "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/3.13.2/CompilerIdC/a.exe"
-
-Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
-Compiler: C:/octave/Octave-3.8.2/bin/g++.exe 
-Build flags: 
-Id flags:  
-
-The output was:
-0
-
-
-Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
-
-The CXX compiler identification is GNU, found in "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/3.13.2/CompilerIdCXX/a.exe"
-
-Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
-Compiler: C:/octave/Octave-3.8.2/bin/gcc.exe 
-Build flags: 
-Id flags:  
-
-The output was:
-0
-
-
-Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
-
-The C compiler identification is GNU, found in "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/3.13.2/CompilerIdC/a.exe"
-
-Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
-Compiler: C:/octave/Octave-3.8.2/bin/g++.exe 
-Build flags: 
-Id flags:  
-
-The output was:
-0
-
-
-Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
-
-The CXX compiler identification is GNU, found in "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/3.13.2/CompilerIdCXX/a.exe"
-
-Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
 Compiler: C:/MinGW/bin/gcc.exe 
 Build flags: 
 Id flags:  
@@ -132,30 +28,30 @@ The CXX compiler identification is GNU, found in "c:/Users/SPetcavich/Desktop/so
 Determining if the C compiler works passed with the following output:
 Change Dir: c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_14e03/fast"
-C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_14e03.dir/build.make CMakeFiles/cmTC_14e03.dir/build
+Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_8db71/fast"
+C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_8db71.dir/build.make CMakeFiles/cmTC_8db71.dir/build
 make.exe[1]: Entering directory `c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_14e03.dir/testCCompiler.c.obj
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_14e03.dir/testCCompiler.c.obj   -c "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp/testCCompiler.c"
-Linking C executable cmTC_14e03.exe
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && "/C/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_14e03.dir/objects.a
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/octave/Octave-3.8.2/bin/ar.exe cr CMakeFiles/cmTC_14e03.dir/objects.a @CMakeFiles/cmTC_14e03.dir/objects1.rsp
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/MinGW/bin/gcc.exe      -Wl,--whole-archive CMakeFiles/cmTC_14e03.dir/objects.a -Wl,--no-whole-archive  -o cmTC_14e03.exe -Wl,--out-implib,libcmTC_14e03.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_14e03.dir/linklibs.rsp
+Building C object CMakeFiles/cmTC_8db71.dir/testCCompiler.c.obj
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_8db71.dir/testCCompiler.c.obj   -c "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp/testCCompiler.c"
+Linking C executable cmTC_8db71.exe
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && "C:/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_8db71.dir/objects.a
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/ar.exe cr CMakeFiles/cmTC_8db71.dir/objects.a @CMakeFiles/cmTC_8db71.dir/objects1.rsp
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/gcc.exe      -Wl,--whole-archive CMakeFiles/cmTC_8db71.dir/objects.a -Wl,--no-whole-archive  -o cmTC_8db71.exe -Wl,--out-implib,libcmTC_8db71.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_8db71.dir/linklibs.rsp
 make.exe[1]: Leaving directory `c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
 Change Dir: c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_9d7fe/fast"
-C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_9d7fe.dir/build.make CMakeFiles/cmTC_9d7fe.dir/build
+Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_ca352/fast"
+C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_ca352.dir/build.make CMakeFiles/cmTC_ca352.dir/build
 make.exe[1]: Entering directory `c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_9d7fe.dir/CMakeCCompilerABI.c.obj
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_9d7fe.dir/CMakeCCompilerABI.c.obj   -c "/C/Program Files/CMake/share/cmake-3.13/Modules/CMakeCCompilerABI.c"
-Linking C executable cmTC_9d7fe.exe
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && "/C/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_9d7fe.dir/objects.a
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/octave/Octave-3.8.2/bin/ar.exe cr CMakeFiles/cmTC_9d7fe.dir/objects.a @CMakeFiles/cmTC_9d7fe.dir/objects1.rsp
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/MinGW/bin/gcc.exe     -v -Wl,--whole-archive CMakeFiles/cmTC_9d7fe.dir/objects.a -Wl,--no-whole-archive  -o cmTC_9d7fe.exe -Wl,--out-implib,libcmTC_9d7fe.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+Building C object CMakeFiles/cmTC_ca352.dir/CMakeCCompilerABI.c.obj
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_ca352.dir/CMakeCCompilerABI.c.obj   -c "C:/Program Files/CMake/share/cmake-3.13/Modules/CMakeCCompilerABI.c"
+Linking C executable cmTC_ca352.exe
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && "C:/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_ca352.dir/objects.a
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/ar.exe cr CMakeFiles/cmTC_ca352.dir/objects.a @CMakeFiles/cmTC_ca352.dir/objects1.rsp
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/gcc.exe     -v -Wl,--whole-archive CMakeFiles/cmTC_ca352.dir/objects.a -Wl,--no-whole-archive  -o cmTC_ca352.exe -Wl,--out-implib,libcmTC_ca352.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
 Using built-in specs.
 COLLECT_GCC=c:\MinGW\bin\gcc.exe
 COLLECT_LTO_WRAPPER=c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/lto-wrapper.exe
@@ -165,8 +61,8 @@ Thread model: win32
 gcc version 4.8.1 (GCC) 
 COMPILER_PATH=c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/;c:/mingw/bin/../libexec/gcc/;c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/bin/
 LIBRARY_PATH=c:/mingw/bin/../lib/gcc/mingw32/4.8.1/;c:/mingw/bin/../lib/gcc/;c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib/;c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9d7fe.exe' '-mtune=generic' '-march=pentiumpro'
- c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/collect2.exe -Bdynamic -o cmTC_9d7fe.exe c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../crt2.o c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtbegin.o -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1 -Lc:/mingw/bin/../lib/gcc -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../.. --whole-archive CMakeFiles/cmTC_9d7fe.dir/objects.a --no-whole-archive --out-implib libcmTC_9d7fe.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtend.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ca352.exe' '-mtune=generic' '-march=pentiumpro'
+ c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/collect2.exe -Bdynamic -o cmTC_ca352.exe c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../crt2.o c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtbegin.o -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1 -Lc:/mingw/bin/../lib/gcc -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../.. --whole-archive CMakeFiles/cmTC_ca352.dir/objects.a --no-whole-archive --out-implib libcmTC_ca352.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtend.o
 make.exe[1]: Leaving directory `c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
 
 
@@ -174,15 +70,15 @@ Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
   ignore line: [Change Dir: c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_9d7fe/fast"]
-  ignore line: [C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_9d7fe.dir/build.make CMakeFiles/cmTC_9d7fe.dir/build]
+  ignore line: [Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_ca352/fast"]
+  ignore line: [C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_ca352.dir/build.make CMakeFiles/cmTC_ca352.dir/build]
   ignore line: [make.exe[1]: Entering directory `c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_9d7fe.dir/CMakeCCompilerABI.c.obj]
-  ignore line: [cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_9d7fe.dir/CMakeCCompilerABI.c.obj   -c "/C/Program Files/CMake/share/cmake-3.13/Modules/CMakeCCompilerABI.c"]
-  ignore line: [Linking C executable cmTC_9d7fe.exe]
-  ignore line: [cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && "/C/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_9d7fe.dir/objects.a]
-  ignore line: [cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/octave/Octave-3.8.2/bin/ar.exe cr CMakeFiles/cmTC_9d7fe.dir/objects.a @CMakeFiles/cmTC_9d7fe.dir/objects1.rsp]
-  ignore line: [cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/MinGW/bin/gcc.exe     -v -Wl,--whole-archive CMakeFiles/cmTC_9d7fe.dir/objects.a -Wl,--no-whole-archive  -o cmTC_9d7fe.exe -Wl,--out-implib,libcmTC_9d7fe.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ]
+  ignore line: [Building C object CMakeFiles/cmTC_ca352.dir/CMakeCCompilerABI.c.obj]
+  ignore line: [cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_ca352.dir/CMakeCCompilerABI.c.obj   -c "C:/Program Files/CMake/share/cmake-3.13/Modules/CMakeCCompilerABI.c"]
+  ignore line: [Linking C executable cmTC_ca352.exe]
+  ignore line: [cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && "C:/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_ca352.dir/objects.a]
+  ignore line: [cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/ar.exe cr CMakeFiles/cmTC_ca352.dir/objects.a @CMakeFiles/cmTC_ca352.dir/objects1.rsp]
+  ignore line: [cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/gcc.exe     -v -Wl,--whole-archive CMakeFiles/cmTC_ca352.dir/objects.a -Wl,--no-whole-archive  -o cmTC_ca352.exe -Wl,--out-implib,libcmTC_ca352.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=c:\MinGW\bin\gcc.exe]
   ignore line: [COLLECT_LTO_WRAPPER=c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/lto-wrapper.exe]
@@ -197,12 +93,12 @@ Parsed C implicit link information from above output:
   ignore line: [c:/mingw/bin/../lib/gcc/]
   ignore line: [c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib/]
   ignore line: [c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9d7fe.exe' '-mtune=generic' '-march=pentiumpro']
-  link line: [ c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/collect2.exe -Bdynamic -o cmTC_9d7fe.exe c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../crt2.o c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtbegin.o -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1 -Lc:/mingw/bin/../lib/gcc -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../.. --whole-archive CMakeFiles/cmTC_9d7fe.dir/objects.a --no-whole-archive --out-implib libcmTC_9d7fe.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtend.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ca352.exe' '-mtune=generic' '-march=pentiumpro']
+  link line: [ c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/collect2.exe -Bdynamic -o cmTC_ca352.exe c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../crt2.o c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtbegin.o -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1 -Lc:/mingw/bin/../lib/gcc -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../.. --whole-archive CMakeFiles/cmTC_ca352.dir/objects.a --no-whole-archive --out-implib libcmTC_ca352.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtend.o]
     arg [c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/collect2.exe] ==> ignore
     arg [-Bdynamic] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_9d7fe.exe] ==> ignore
+    arg [cmTC_ca352.exe] ==> ignore
     arg [c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../crt2.o] ==> ignore
     arg [c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtbegin.o] ==> ignore
     arg [-Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1] ==> dir [c:/mingw/bin/../lib/gcc/mingw32/4.8.1]
@@ -210,10 +106,10 @@ Parsed C implicit link information from above output:
     arg [-Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib] ==> dir [c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib]
     arg [-Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../..] ==> dir [c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../..]
     arg [--whole-archive] ==> ignore
-    arg [CMakeFiles/cmTC_9d7fe.dir/objects.a] ==> ignore
+    arg [CMakeFiles/cmTC_ca352.dir/objects.a] ==> ignore
     arg [--no-whole-archive] ==> ignore
     arg [--out-implib] ==> ignore
-    arg [libcmTC_9d7fe.dll.a] ==> ignore
+    arg [libcmTC_ca352.dll.a] ==> ignore
     arg [--major-image-version] ==> ignore
     arg [0] ==> ignore
     arg [--minor-image-version] ==> ignore
@@ -253,15 +149,15 @@ Parsed C implicit link information from above output:
 Detecting C [-std=c11] compiler features compiled with the following output:
 Change Dir: c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_4c6b9/fast"
-C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_4c6b9.dir/build.make CMakeFiles/cmTC_4c6b9.dir/build
+Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_f84a2/fast"
+C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_f84a2.dir/build.make CMakeFiles/cmTC_f84a2.dir/build
 make.exe[1]: Entering directory `c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_4c6b9.dir/feature_tests.c.obj
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/MinGW/bin/gcc.exe   -std=c11 -o CMakeFiles/cmTC_4c6b9.dir/feature_tests.c.obj   -c "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/feature_tests.c"
-Linking C executable cmTC_4c6b9.exe
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && "/C/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_4c6b9.dir/objects.a
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/octave/Octave-3.8.2/bin/ar.exe cr CMakeFiles/cmTC_4c6b9.dir/objects.a @CMakeFiles/cmTC_4c6b9.dir/objects1.rsp
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/MinGW/bin/gcc.exe      -Wl,--whole-archive CMakeFiles/cmTC_4c6b9.dir/objects.a -Wl,--no-whole-archive  -o cmTC_4c6b9.exe -Wl,--out-implib,libcmTC_4c6b9.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_4c6b9.dir/linklibs.rsp
+Building C object CMakeFiles/cmTC_f84a2.dir/feature_tests.c.obj
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/gcc.exe   -std=c11 -o CMakeFiles/cmTC_f84a2.dir/feature_tests.c.obj   -c "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/feature_tests.c"
+Linking C executable cmTC_f84a2.exe
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && "C:/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_f84a2.dir/objects.a
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/ar.exe cr CMakeFiles/cmTC_f84a2.dir/objects.a @CMakeFiles/cmTC_f84a2.dir/objects1.rsp
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/gcc.exe      -Wl,--whole-archive CMakeFiles/cmTC_f84a2.dir/objects.a -Wl,--no-whole-archive  -o cmTC_f84a2.exe -Wl,--out-implib,libcmTC_f84a2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_f84a2.dir/linklibs.rsp
 make.exe[1]: Leaving directory `c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
 
 
@@ -274,15 +170,15 @@ make.exe[1]: Leaving directory `c:/Users/SPetcavich/Desktop/software practice/Te
 Detecting C [-std=c99] compiler features compiled with the following output:
 Change Dir: c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_b4e1c/fast"
-C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_b4e1c.dir/build.make CMakeFiles/cmTC_b4e1c.dir/build
+Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_dc48a/fast"
+C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_dc48a.dir/build.make CMakeFiles/cmTC_dc48a.dir/build
 make.exe[1]: Entering directory `c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_b4e1c.dir/feature_tests.c.obj
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/MinGW/bin/gcc.exe   -std=c99 -o CMakeFiles/cmTC_b4e1c.dir/feature_tests.c.obj   -c "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/feature_tests.c"
-Linking C executable cmTC_b4e1c.exe
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && "/C/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_b4e1c.dir/objects.a
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/octave/Octave-3.8.2/bin/ar.exe cr CMakeFiles/cmTC_b4e1c.dir/objects.a @CMakeFiles/cmTC_b4e1c.dir/objects1.rsp
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/MinGW/bin/gcc.exe      -Wl,--whole-archive CMakeFiles/cmTC_b4e1c.dir/objects.a -Wl,--no-whole-archive  -o cmTC_b4e1c.exe -Wl,--out-implib,libcmTC_b4e1c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_b4e1c.dir/linklibs.rsp
+Building C object CMakeFiles/cmTC_dc48a.dir/feature_tests.c.obj
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/gcc.exe   -std=c99 -o CMakeFiles/cmTC_dc48a.dir/feature_tests.c.obj   -c "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/feature_tests.c"
+Linking C executable cmTC_dc48a.exe
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && "C:/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_dc48a.dir/objects.a
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/ar.exe cr CMakeFiles/cmTC_dc48a.dir/objects.a @CMakeFiles/cmTC_dc48a.dir/objects1.rsp
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/gcc.exe      -Wl,--whole-archive CMakeFiles/cmTC_dc48a.dir/objects.a -Wl,--no-whole-archive  -o cmTC_dc48a.exe -Wl,--out-implib,libcmTC_dc48a.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_dc48a.dir/linklibs.rsp
 make.exe[1]: Leaving directory `c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
 
 
@@ -295,15 +191,15 @@ make.exe[1]: Leaving directory `c:/Users/SPetcavich/Desktop/software practice/Te
 Detecting C [-std=c90] compiler features compiled with the following output:
 Change Dir: c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_bc4ad/fast"
-C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_bc4ad.dir/build.make CMakeFiles/cmTC_bc4ad.dir/build
+Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_432d5/fast"
+C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_432d5.dir/build.make CMakeFiles/cmTC_432d5.dir/build
 make.exe[1]: Entering directory `c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_bc4ad.dir/feature_tests.c.obj
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/MinGW/bin/gcc.exe   -std=c90 -o CMakeFiles/cmTC_bc4ad.dir/feature_tests.c.obj   -c "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/feature_tests.c"
-Linking C executable cmTC_bc4ad.exe
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && "/C/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_bc4ad.dir/objects.a
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/octave/Octave-3.8.2/bin/ar.exe cr CMakeFiles/cmTC_bc4ad.dir/objects.a @CMakeFiles/cmTC_bc4ad.dir/objects1.rsp
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/MinGW/bin/gcc.exe      -Wl,--whole-archive CMakeFiles/cmTC_bc4ad.dir/objects.a -Wl,--no-whole-archive  -o cmTC_bc4ad.exe -Wl,--out-implib,libcmTC_bc4ad.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_bc4ad.dir/linklibs.rsp
+Building C object CMakeFiles/cmTC_432d5.dir/feature_tests.c.obj
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/gcc.exe   -std=c90 -o CMakeFiles/cmTC_432d5.dir/feature_tests.c.obj   -c "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/feature_tests.c"
+Linking C executable cmTC_432d5.exe
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && "C:/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_432d5.dir/objects.a
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/ar.exe cr CMakeFiles/cmTC_432d5.dir/objects.a @CMakeFiles/cmTC_432d5.dir/objects1.rsp
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/gcc.exe      -Wl,--whole-archive CMakeFiles/cmTC_432d5.dir/objects.a -Wl,--no-whole-archive  -o cmTC_432d5.exe -Wl,--out-implib,libcmTC_432d5.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_432d5.dir/linklibs.rsp
 make.exe[1]: Leaving directory `c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
 
 
@@ -314,30 +210,30 @@ make.exe[1]: Leaving directory `c:/Users/SPetcavich/Desktop/software practice/Te
 Determining if the CXX compiler works passed with the following output:
 Change Dir: c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_13a36/fast"
-C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_13a36.dir/build.make CMakeFiles/cmTC_13a36.dir/build
+Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_0523f/fast"
+C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_0523f.dir/build.make CMakeFiles/cmTC_0523f.dir/build
 make.exe[1]: Entering directory `c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_13a36.dir/testCXXCompiler.cxx.obj
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/MinGW/bin/g++.exe     -o CMakeFiles/cmTC_13a36.dir/testCXXCompiler.cxx.obj -c "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx"
-Linking CXX executable cmTC_13a36.exe
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && "/C/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_13a36.dir/objects.a
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/octave/Octave-3.8.2/bin/ar.exe cr CMakeFiles/cmTC_13a36.dir/objects.a @CMakeFiles/cmTC_13a36.dir/objects1.rsp
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/MinGW/bin/g++.exe      -Wl,--whole-archive CMakeFiles/cmTC_13a36.dir/objects.a -Wl,--no-whole-archive  -o cmTC_13a36.exe -Wl,--out-implib,libcmTC_13a36.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_13a36.dir/linklibs.rsp
+Building CXX object CMakeFiles/cmTC_0523f.dir/testCXXCompiler.cxx.obj
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/g++.exe     -o CMakeFiles/cmTC_0523f.dir/testCXXCompiler.cxx.obj -c "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx"
+Linking CXX executable cmTC_0523f.exe
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && "C:/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_0523f.dir/objects.a
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/ar.exe cr CMakeFiles/cmTC_0523f.dir/objects.a @CMakeFiles/cmTC_0523f.dir/objects1.rsp
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/g++.exe      -Wl,--whole-archive CMakeFiles/cmTC_0523f.dir/objects.a -Wl,--no-whole-archive  -o cmTC_0523f.exe -Wl,--out-implib,libcmTC_0523f.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_0523f.dir/linklibs.rsp
 make.exe[1]: Leaving directory `c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
 Change Dir: c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_5686b/fast"
-C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_5686b.dir/build.make CMakeFiles/cmTC_5686b.dir/build
+Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_64a62/fast"
+C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_64a62.dir/build.make CMakeFiles/cmTC_64a62.dir/build
 make.exe[1]: Entering directory `c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_5686b.dir/CMakeCXXCompilerABI.cpp.obj
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/MinGW/bin/g++.exe     -o CMakeFiles/cmTC_5686b.dir/CMakeCXXCompilerABI.cpp.obj -c "/C/Program Files/CMake/share/cmake-3.13/Modules/CMakeCXXCompilerABI.cpp"
-Linking CXX executable cmTC_5686b.exe
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && "/C/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_5686b.dir/objects.a
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/octave/Octave-3.8.2/bin/ar.exe cr CMakeFiles/cmTC_5686b.dir/objects.a @CMakeFiles/cmTC_5686b.dir/objects1.rsp
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/MinGW/bin/g++.exe     -v -Wl,--whole-archive CMakeFiles/cmTC_5686b.dir/objects.a -Wl,--no-whole-archive  -o cmTC_5686b.exe -Wl,--out-implib,libcmTC_5686b.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+Building CXX object CMakeFiles/cmTC_64a62.dir/CMakeCXXCompilerABI.cpp.obj
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/g++.exe     -o CMakeFiles/cmTC_64a62.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-3.13/Modules/CMakeCXXCompilerABI.cpp"
+Linking CXX executable cmTC_64a62.exe
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && "C:/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_64a62.dir/objects.a
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/ar.exe cr CMakeFiles/cmTC_64a62.dir/objects.a @CMakeFiles/cmTC_64a62.dir/objects1.rsp
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/g++.exe     -v -Wl,--whole-archive CMakeFiles/cmTC_64a62.dir/objects.a -Wl,--no-whole-archive  -o cmTC_64a62.exe -Wl,--out-implib,libcmTC_64a62.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
 Using built-in specs.
 COLLECT_GCC=c:\MinGW\bin\g++.exe
 COLLECT_LTO_WRAPPER=c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/lto-wrapper.exe
@@ -347,8 +243,8 @@ Thread model: win32
 gcc version 4.8.1 (GCC) 
 COMPILER_PATH=c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/;c:/mingw/bin/../libexec/gcc/;c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/bin/
 LIBRARY_PATH=c:/mingw/bin/../lib/gcc/mingw32/4.8.1/;c:/mingw/bin/../lib/gcc/;c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib/;c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_5686b.exe' '-shared-libgcc' '-mtune=generic' '-march=pentiumpro'
- c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/collect2.exe -Bdynamic -u ___register_frame_info -u ___deregister_frame_info -o cmTC_5686b.exe c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../crt2.o c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtbegin.o -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1 -Lc:/mingw/bin/../lib/gcc -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../.. --whole-archive CMakeFiles/cmTC_5686b.dir/objects.a --no-whole-archive --out-implib libcmTC_5686b.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtend.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_64a62.exe' '-shared-libgcc' '-mtune=generic' '-march=pentiumpro'
+ c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/collect2.exe -Bdynamic -u ___register_frame_info -u ___deregister_frame_info -o cmTC_64a62.exe c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../crt2.o c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtbegin.o -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1 -Lc:/mingw/bin/../lib/gcc -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../.. --whole-archive CMakeFiles/cmTC_64a62.dir/objects.a --no-whole-archive --out-implib libcmTC_64a62.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtend.o
 make.exe[1]: Leaving directory `c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
 
 
@@ -356,15 +252,15 @@ Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
   ignore line: [Change Dir: c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_5686b/fast"]
-  ignore line: [C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_5686b.dir/build.make CMakeFiles/cmTC_5686b.dir/build]
+  ignore line: [Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_64a62/fast"]
+  ignore line: [C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_64a62.dir/build.make CMakeFiles/cmTC_64a62.dir/build]
   ignore line: [make.exe[1]: Entering directory `c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_5686b.dir/CMakeCXXCompilerABI.cpp.obj]
-  ignore line: [cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/MinGW/bin/g++.exe     -o CMakeFiles/cmTC_5686b.dir/CMakeCXXCompilerABI.cpp.obj -c "/C/Program Files/CMake/share/cmake-3.13/Modules/CMakeCXXCompilerABI.cpp"]
-  ignore line: [Linking CXX executable cmTC_5686b.exe]
-  ignore line: [cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && "/C/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_5686b.dir/objects.a]
-  ignore line: [cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/octave/Octave-3.8.2/bin/ar.exe cr CMakeFiles/cmTC_5686b.dir/objects.a @CMakeFiles/cmTC_5686b.dir/objects1.rsp]
-  ignore line: [cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/MinGW/bin/g++.exe     -v -Wl,--whole-archive CMakeFiles/cmTC_5686b.dir/objects.a -Wl,--no-whole-archive  -o cmTC_5686b.exe -Wl,--out-implib,libcmTC_5686b.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ]
+  ignore line: [Building CXX object CMakeFiles/cmTC_64a62.dir/CMakeCXXCompilerABI.cpp.obj]
+  ignore line: [cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/g++.exe     -o CMakeFiles/cmTC_64a62.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-3.13/Modules/CMakeCXXCompilerABI.cpp"]
+  ignore line: [Linking CXX executable cmTC_64a62.exe]
+  ignore line: [cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && "C:/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_64a62.dir/objects.a]
+  ignore line: [cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/ar.exe cr CMakeFiles/cmTC_64a62.dir/objects.a @CMakeFiles/cmTC_64a62.dir/objects1.rsp]
+  ignore line: [cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/g++.exe     -v -Wl,--whole-archive CMakeFiles/cmTC_64a62.dir/objects.a -Wl,--no-whole-archive  -o cmTC_64a62.exe -Wl,--out-implib,libcmTC_64a62.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=c:\MinGW\bin\g++.exe]
   ignore line: [COLLECT_LTO_WRAPPER=c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/lto-wrapper.exe]
@@ -379,8 +275,8 @@ Parsed CXX implicit link information from above output:
   ignore line: [c:/mingw/bin/../lib/gcc/]
   ignore line: [c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib/]
   ignore line: [c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_5686b.exe' '-shared-libgcc' '-mtune=generic' '-march=pentiumpro']
-  link line: [ c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/collect2.exe -Bdynamic -u ___register_frame_info -u ___deregister_frame_info -o cmTC_5686b.exe c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../crt2.o c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtbegin.o -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1 -Lc:/mingw/bin/../lib/gcc -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../.. --whole-archive CMakeFiles/cmTC_5686b.dir/objects.a --no-whole-archive --out-implib libcmTC_5686b.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtend.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_64a62.exe' '-shared-libgcc' '-mtune=generic' '-march=pentiumpro']
+  link line: [ c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/collect2.exe -Bdynamic -u ___register_frame_info -u ___deregister_frame_info -o cmTC_64a62.exe c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../crt2.o c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtbegin.o -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1 -Lc:/mingw/bin/../lib/gcc -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../.. --whole-archive CMakeFiles/cmTC_64a62.dir/objects.a --no-whole-archive --out-implib libcmTC_64a62.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtend.o]
     arg [c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/collect2.exe] ==> ignore
     arg [-Bdynamic] ==> ignore
     arg [-u] ==> ignore
@@ -388,7 +284,7 @@ Parsed CXX implicit link information from above output:
     arg [-u] ==> ignore
     arg [___deregister_frame_info] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_5686b.exe] ==> ignore
+    arg [cmTC_64a62.exe] ==> ignore
     arg [c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../crt2.o] ==> ignore
     arg [c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtbegin.o] ==> ignore
     arg [-Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1] ==> dir [c:/mingw/bin/../lib/gcc/mingw32/4.8.1]
@@ -396,10 +292,10 @@ Parsed CXX implicit link information from above output:
     arg [-Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib] ==> dir [c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib]
     arg [-Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../..] ==> dir [c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../..]
     arg [--whole-archive] ==> ignore
-    arg [CMakeFiles/cmTC_5686b.dir/objects.a] ==> ignore
+    arg [CMakeFiles/cmTC_64a62.dir/objects.a] ==> ignore
     arg [--no-whole-archive] ==> ignore
     arg [--out-implib] ==> ignore
-    arg [libcmTC_5686b.dll.a] ==> ignore
+    arg [libcmTC_64a62.dll.a] ==> ignore
     arg [--major-image-version] ==> ignore
     arg [0] ==> ignore
     arg [--minor-image-version] ==> ignore
@@ -438,15 +334,15 @@ Parsed CXX implicit link information from above output:
 Detecting CXX [-std=c++1y] compiler features compiled with the following output:
 Change Dir: c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_20179/fast"
-C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_20179.dir/build.make CMakeFiles/cmTC_20179.dir/build
+Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_2c1d8/fast"
+C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_2c1d8.dir/build.make CMakeFiles/cmTC_2c1d8.dir/build
 make.exe[1]: Entering directory `c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_20179.dir/feature_tests.cxx.obj
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/MinGW/bin/g++.exe    -std=c++1y -o CMakeFiles/cmTC_20179.dir/feature_tests.cxx.obj -c "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/feature_tests.cxx"
-Linking CXX executable cmTC_20179.exe
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && "/C/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_20179.dir/objects.a
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/octave/Octave-3.8.2/bin/ar.exe cr CMakeFiles/cmTC_20179.dir/objects.a @CMakeFiles/cmTC_20179.dir/objects1.rsp
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/MinGW/bin/g++.exe      -Wl,--whole-archive CMakeFiles/cmTC_20179.dir/objects.a -Wl,--no-whole-archive  -o cmTC_20179.exe -Wl,--out-implib,libcmTC_20179.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_20179.dir/linklibs.rsp
+Building CXX object CMakeFiles/cmTC_2c1d8.dir/feature_tests.cxx.obj
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/g++.exe    -std=c++1y -o CMakeFiles/cmTC_2c1d8.dir/feature_tests.cxx.obj -c "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/feature_tests.cxx"
+Linking CXX executable cmTC_2c1d8.exe
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && "C:/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_2c1d8.dir/objects.a
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/ar.exe cr CMakeFiles/cmTC_2c1d8.dir/objects.a @CMakeFiles/cmTC_2c1d8.dir/objects1.rsp
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/g++.exe      -Wl,--whole-archive CMakeFiles/cmTC_2c1d8.dir/objects.a -Wl,--no-whole-archive  -o cmTC_2c1d8.exe -Wl,--out-implib,libcmTC_2c1d8.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_2c1d8.dir/linklibs.rsp
 make.exe[1]: Leaving directory `c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
 
 
@@ -512,15 +408,15 @@ make.exe[1]: Leaving directory `c:/Users/SPetcavich/Desktop/software practice/Te
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
 Change Dir: c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_ef46f/fast"
-C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_ef46f.dir/build.make CMakeFiles/cmTC_ef46f.dir/build
+Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_d8f17/fast"
+C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_d8f17.dir/build.make CMakeFiles/cmTC_d8f17.dir/build
 make.exe[1]: Entering directory `c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_ef46f.dir/feature_tests.cxx.obj
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/MinGW/bin/g++.exe    -std=c++11 -o CMakeFiles/cmTC_ef46f.dir/feature_tests.cxx.obj -c "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/feature_tests.cxx"
-Linking CXX executable cmTC_ef46f.exe
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && "/C/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_ef46f.dir/objects.a
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/octave/Octave-3.8.2/bin/ar.exe cr CMakeFiles/cmTC_ef46f.dir/objects.a @CMakeFiles/cmTC_ef46f.dir/objects1.rsp
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/MinGW/bin/g++.exe      -Wl,--whole-archive CMakeFiles/cmTC_ef46f.dir/objects.a -Wl,--no-whole-archive  -o cmTC_ef46f.exe -Wl,--out-implib,libcmTC_ef46f.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_ef46f.dir/linklibs.rsp
+Building CXX object CMakeFiles/cmTC_d8f17.dir/feature_tests.cxx.obj
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/g++.exe    -std=c++11 -o CMakeFiles/cmTC_d8f17.dir/feature_tests.cxx.obj -c "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/feature_tests.cxx"
+Linking CXX executable cmTC_d8f17.exe
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && "C:/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_d8f17.dir/objects.a
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/ar.exe cr CMakeFiles/cmTC_d8f17.dir/objects.a @CMakeFiles/cmTC_d8f17.dir/objects1.rsp
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/g++.exe      -Wl,--whole-archive CMakeFiles/cmTC_d8f17.dir/objects.a -Wl,--no-whole-archive  -o cmTC_d8f17.exe -Wl,--out-implib,libcmTC_d8f17.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_d8f17.dir/linklibs.rsp
 make.exe[1]: Leaving directory `c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
 
 
@@ -586,15 +482,15 @@ make.exe[1]: Leaving directory `c:/Users/SPetcavich/Desktop/software practice/Te
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
 Change Dir: c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_fd69a/fast"
-C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_fd69a.dir/build.make CMakeFiles/cmTC_fd69a.dir/build
+Run Build Command:"C:/WinAVR-20100110/utils/bin/make.exe" "cmTC_ec865/fast"
+C:/WinAVR-20100110/utils/bin/make.exe -f CMakeFiles/cmTC_ec865.dir/build.make CMakeFiles/cmTC_ec865.dir/build
 make.exe[1]: Entering directory `c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_fd69a.dir/feature_tests.cxx.obj
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/MinGW/bin/g++.exe    -std=c++98 -o CMakeFiles/cmTC_fd69a.dir/feature_tests.cxx.obj -c "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/feature_tests.cxx"
-Linking CXX executable cmTC_fd69a.exe
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && "/C/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_fd69a.dir/objects.a
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/octave/Octave-3.8.2/bin/ar.exe cr CMakeFiles/cmTC_fd69a.dir/objects.a @CMakeFiles/cmTC_fd69a.dir/objects1.rsp
-cd "/C/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && /C/MinGW/bin/g++.exe      -Wl,--whole-archive CMakeFiles/cmTC_fd69a.dir/objects.a -Wl,--no-whole-archive  -o cmTC_fd69a.exe -Wl,--out-implib,libcmTC_fd69a.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_fd69a.dir/linklibs.rsp
+Building CXX object CMakeFiles/cmTC_ec865.dir/feature_tests.cxx.obj
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/g++.exe    -std=c++98 -o CMakeFiles/cmTC_ec865.dir/feature_tests.cxx.obj -c "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/feature_tests.cxx"
+Linking CXX executable cmTC_ec865.exe
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && "C:/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_ec865.dir/objects.a
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/ar.exe cr CMakeFiles/cmTC_ec865.dir/objects.a @CMakeFiles/cmTC_ec865.dir/objects1.rsp
+cd "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp" && C:/MinGW/bin/g++.exe      -Wl,--whole-archive CMakeFiles/cmTC_ec865.dir/objects.a -Wl,--no-whole-archive  -o cmTC_ec865.exe -Wl,--out-implib,libcmTC_ec865.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_ec865.dir/linklibs.rsp
 make.exe[1]: Leaving directory `c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/CMakeTmp'
 
 
