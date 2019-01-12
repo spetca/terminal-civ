@@ -1,6 +1,6 @@
 # termtopia 
 
-termtopia is a terminal implementation of civ/polytopia
+termtopia is a [in progress] terminal implementation of civ/polytopia
 
 ![Image description](https://github.com/spetca/termtopia/blob/master/term.png)
 
