@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/inc/menu.h
+C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/inc/game.h
 
 C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/inc/termcolor.hpp
 unistd.h
@@ -20,27 +20,13 @@ iostream
 cstdio
 -
 
-C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/src/menu.cpp
-../inc/menu.h
-C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/inc/menu.h
+C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/src/game.cpp
+../inc/game.h
+C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/inc/game.h
 ../inc/termcolor.hpp
 C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/inc/termcolor.hpp
-cstdlib
--
 iostream
--
-sstream
 -
 vector
--
-
-C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/src/termtopia.cpp
-../inc/menu.h
-C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/inc/menu.h
-cstdlib
--
-iostream
--
-sstream
 -
 

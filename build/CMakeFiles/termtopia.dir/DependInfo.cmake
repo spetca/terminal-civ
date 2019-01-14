@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/src/game.cpp" "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/termtopia.dir/src/game.cpp.obj"
   "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/src/menu.cpp" "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/termtopia.dir/src/menu.cpp.obj"
   "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/src/termtopia.cpp" "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build/CMakeFiles/termtopia.dir/src/termtopia.cpp.obj"
   )

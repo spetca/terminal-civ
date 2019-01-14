@@ -169,6 +169,33 @@ termtopia/fast:
 	$(MAKE) -f CMakeFiles/termtopia.dir/build.make CMakeFiles/termtopia.dir/build
 .PHONY : termtopia/fast
 
+src/game.obj: src/game.cpp.obj
+
+.PHONY : src/game.obj
+
+# target to build an object file
+src/game.cpp.obj:
+	cd "c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build" && $(MAKE) -f CMakeFiles/termtopia.dir/build.make CMakeFiles/termtopia.dir/src/game.cpp.obj
+.PHONY : src/game.cpp.obj
+
+src/game.i: src/game.cpp.i
+
+.PHONY : src/game.i
+
+# target to preprocess a source file
+src/game.cpp.i:
+	cd "c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build" && $(MAKE) -f CMakeFiles/termtopia.dir/build.make CMakeFiles/termtopia.dir/src/game.cpp.i
+.PHONY : src/game.cpp.i
+
+src/game.s: src/game.cpp.s
+
+.PHONY : src/game.s
+
+# target to generate assembly for a file
+src/game.cpp.s:
+	cd "c:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build" && $(MAKE) -f CMakeFiles/termtopia.dir/build.make CMakeFiles/termtopia.dir/src/game.cpp.s
+.PHONY : src/game.cpp.s
+
 src/menu.obj: src/menu.cpp.obj
 
 .PHONY : src/menu.obj
@@ -236,6 +263,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... list_install_components"
 	@echo "... install/strip"
+	@echo "... src/game.obj"
+	@echo "... src/game.i"
+	@echo "... src/game.s"
 	@echo "... src/menu.obj"
 	@echo "... src/menu.i"
 	@echo "... src/menu.s"

@@ -1,3 +1,4 @@
+#include "../inc/game.h"
 #include "../inc/menu.h"
 #include "../inc/termcolor.hpp"
 #include <cstdlib>
@@ -8,7 +9,7 @@
 void
 Menu::input_cursor()
 {
-    std::cout << "          :";
+    std::cout << "          :" << termcolor::blink;
 }
 
 void
@@ -66,7 +67,7 @@ Menu::draw_splash()
                                 |_|                                                                                                                                      
     )";
 
-    std::cout << termcolor::green << splash << std::endl;
+    std::cout << termcolor::green << termcolor::bold << splash << std::endl;
     std::cout << termcolor::reset;
 }
 
@@ -120,11 +121,16 @@ Menu::start_game()
     std::cout << termcolor::reset;
     std::cout << tribe_pick << std::endl;
     input_cursor();
-    char c;
-    std::cin >> c;
+    char tribe;
+    std::cin >> tribe;
 
-    // Game game;
-    // game.run(c);
+    std::cout << "Select Difficulty:";
+    input_cursor();
+    int diff;
+    std::cin >> diff;
+
+    Game game(tribe, diff);
+    game.run();
 }
 
 void

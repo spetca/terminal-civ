@@ -1,6 +1,11 @@
 [
 {
   "directory": "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build",
+  "command": "C:/MinGW/bin/g++.exe   @CMakeFiles/termtopia.dir/includes_CXX.rsp -g   -std=gnu++11 -o CMakeFiles/termtopia.dir/src/game.cpp.obj -c \"C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/src/game.cpp\"",
+  "file": "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/src/game.cpp"
+},
+{
+  "directory": "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/build",
   "command": "C:/MinGW/bin/g++.exe   @CMakeFiles/termtopia.dir/includes_CXX.rsp -g   -std=gnu++11 -o CMakeFiles/termtopia.dir/src/menu.cpp.obj -c \"C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/src/menu.cpp\"",
   "file": "C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/src/menu.cpp"
 },

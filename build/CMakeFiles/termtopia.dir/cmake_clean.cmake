@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/termtopia.dir/src/game.cpp.obj"
   "CMakeFiles/termtopia.dir/src/menu.cpp.obj"
   "CMakeFiles/termtopia.dir/src/termtopia.cpp.obj"
   "termtopia.pdb"
