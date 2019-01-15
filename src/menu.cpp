@@ -4,19 +4,22 @@
 #include <cstdlib>
 #include <iostream>
 #include <sstream>
+#include <string>
 #include <vector>
+
+using namespace std;
 
 void
 Menu::input_cursor()
 {
-    std::cout << "          :" << termcolor::blink;
+    cout << "          :" << termcolor::blink;
 }
 
 void
 Menu::window_clear()
 {
 #if defined(_WIN32) || defined(_WIN64)
-    std::system("cls");
+    system("cls");
 #elif defined(__APPLE__)
 #define TERMCOLOR_OS_MACOS
 #elif defined(__unix__) || defined(__unix)
@@ -42,12 +45,12 @@ Menu::run()
 
     // splash screen + menu
     draw_splash();
-    std::cout << termcolor::blue << sp << greetings_text << gamename_text << std::endl;
-    std::cout << termcolor::reset;
+    cout << termcolor::blue << sp << greetings_text << gamename_text << endl;
+    cout << termcolor::reset;
 
     // main menu
-    std::cout << termcolor::red << menu_entry_text << std::endl;
-    std::cout << termcolor::reset;
+    cout << termcolor::red << menu_entry_text << endl;
+    cout << termcolor::reset;
 
     // get user option and proceed
     main_menu_input();
@@ -67,8 +70,8 @@ Menu::draw_splash()
                                 |_|                                                                                                                                      
     )";
 
-    std::cout << termcolor::green << termcolor::bold << splash << std::endl;
-    std::cout << termcolor::reset;
+    cout << termcolor::green << termcolor::bold << splash << endl;
+    cout << termcolor::reset;
 }
 
 void
@@ -76,7 +79,7 @@ Menu::main_menu_input()
 {
     input_cursor();
     char c;
-    std::cin >> c;
+    cin >> c;
 
     switch (c) {
     case '1':
@@ -106,35 +109,97 @@ void
 Menu::start_game()
 {
     window_clear();
-    constexpr auto tribe_pick = R"(
-    Select a Tribe  | Tribe Starts With
-    -------------------------------------
-    | 1. Tribe1     |   Perk 1          |
-    | 2. Tribe2     |   Perk 1          |
-    | 3. Tribe3     |   Perk 1          |
-    | 4. Tribe4     |   Perk 1          |
-    | 5. Tribe5     |   Perk 1          |
-    | 6. Tribe6     |   Perk 1          |
-    -------------------------------------
-    )";
-    std::cout << termcolor::yellow << "Starting New Game..." << std::endl;
-    std::cout << termcolor::reset;
-    std::cout << tribe_pick << std::endl;
-    input_cursor();
-    char tribe;
-    std::cin >> tribe;
 
-    std::cout << "Select Difficulty:";
-    input_cursor();
-    int diff;
-    std::cin >> diff;
+    vector<string> tribe_selection{
+        "Select a Tribe  | Tribe Starts With",   "-------------------------------------",
+        "| 1. Tribe1     |   Perk 1          |", "| 2. Tribe2     |   Perk 1          |",
+        "| 2. Tribe2     |   Perk 1          |", "| 3. Tribe3     |   Perk 1          |",
+        "| 4. Tribe4     |   Perk 1          |", "| 5. Tribe5     |   Perk 1          |",
+        "| 6. Tribe6     |   Perk 1          |", "-------------------------------------"
+    };
 
-    Game game(tribe, diff);
-    game.run();
+    vector<string> difficulty_selection{ "Select Difficulty",
+                                         "-------------------------------------",
+                                         "1",
+                                         "2",
+                                         "3",
+                                         "4",
+                                         "5" };
+
+    // changes to make it an arrow pick and highlight
+    int highlight_line = 0;
+    char input;
+    while (input != 'd') {
+        for (int i = 0; i < tribe_selection.size(); i++) {
+            if (i == highlight_line + 2)
+                cout << termcolor::on_yellow << termcolor::red;
+
+            cout << tribe_selection[i] << endl;
+
+            if (i == highlight_line + 2)
+                cout << termcolor::reset;
+        }
+        input = cin.get();
+        switch (input) {
+        case 'w': // key up
+            highlight_line = highlight_line - 1;
+            if (highlight_line < 0)
+                highlight_line = 6;
+            highlight_line = (highlight_line) % 7;
+
+            break;
+
+        case 's': // key down
+            highlight_line = highlight_line + 1;
+            highlight_line = (highlight_line) % 7;
+            break;
+        }
+        window_clear();
+        cout << "w - up, s - down, d - next" << endl;
+    }
+    int tribe = highlight_line + 1;
+    window_clear();
+
+    // changes to make it an arrow pick and highlight
+    highlight_line = 0;
+    input = 'a';
+    while (input != 'd') {
+        for (int i = 0; i < difficulty_selection.size(); i++) {
+            if (i == highlight_line + 2)
+                cout << termcolor::on_yellow << termcolor::red;
+
+            cout << difficulty_selection[i] << endl;
+
+            if (i == highlight_line + 2)
+                cout << termcolor::reset;
+        }
+        input = cin.get();
+        switch (input) {
+        case 'w': // key up
+            highlight_line = highlight_line - 1;
+            if (highlight_line < 0)
+                highlight_line = 6;
+            highlight_line = (highlight_line) % 6;
+
+            break;
+
+        case 's': // key down
+            highlight_line = highlight_line + 1;
+            highlight_line = (highlight_line) % 6;
+            break;
+        }
+        window_clear();
+        cout << "w - up, s - down, d - next" << endl;
+    }
+    window_clear();
+    int difficulty = highlight_line + 1;
+    cout << tribe << ", " << difficulty << endl;
+    // Game game(input, diff);
+    // game.run();
 }
 
 void
 Menu::show_score()
 {
-    std::cout << "High score" << std::endl;
+    cout << "High score" << endl;
 }
