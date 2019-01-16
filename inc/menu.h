@@ -1,5 +1,6 @@
 #pragma once
-
+#include <string>
+#include <vector>
 class Menu
 {
 private:
@@ -7,10 +8,10 @@ private:
     void continue_game();
     void draw_splash();
     void get_intput();
-    void main_menu_input();
     void show_score();
     void window_clear();
     void input_cursor();
+    int menu_scroll(std::vector<std::string>& str, int highlight_start);
 
 public:
     void run();

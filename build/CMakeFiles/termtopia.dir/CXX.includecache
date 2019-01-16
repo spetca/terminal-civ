@@ -9,6 +9,10 @@
 C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/inc/game.h
 
 C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/inc/menu.h
+string
+-
+vector
+-
 
 C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/inc/termcolor.hpp
 unistd.h
@@ -29,14 +33,12 @@ C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/inc/game.h
 C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/inc/menu.h
 ../inc/termcolor.hpp
 C:/Users/SPetcavich/Desktop/software practice/Terminal Civ/inc/termcolor.hpp
+conio.h
+-
 cstdlib
 -
 iostream
 -
 sstream
--
-string
--
-vector
 -
 
