@@ -126,8 +126,8 @@ Menu::start_game()
     int difficulty = menu_scroll(difficulty_selection, 2);
 
     std::cout << tribe << ", " << difficulty << std::endl;
-    // Game game(input, diff);
-    // game.run();
+    Game game((Tribe)tribe, difficulty);
+    game.run();
 }
 
 void
